@@ -1,7 +1,4 @@
-﻿using System.Reflection.Metadata.Ecma335;
-using System.Threading;
-
-namespace cyxx.Examples
+﻿namespace cyxx.Examples
 {
 	class Program
 	{
